@@ -21,8 +21,13 @@ ETL-Project/
 
 🧰 Technologies Used
 Python
+
 pandas
+
 faker
+
 sqlalchemy / mysql-connector-python
+
 MySQL
+
 Jupyter Notebook / IDE (optional for exploration)
