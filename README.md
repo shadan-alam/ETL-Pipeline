@@ -16,7 +16,7 @@ ETL-Project/
 │
 ├── data_generation.py         # Script to generate fake data using Faker
 ├── etl_pipeline.py            # Script to perform the ETL steps
-└── README.md                  # Project documentation
+└── README.md                  # Project documentation 
 
 
 🧰 Technologies Used
