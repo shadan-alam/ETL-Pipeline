@@ -15,7 +15,8 @@ Load: Stored the normalized data into a MySQL database using SQLAlchemy / mysql-
 ETL-Project/
 │
 ├── data_generation.py         # Script to generate fake data using Faker
-├── etl_pipeline.py            # Script to perform the ETL steps
+├── etl_pipeline.py            # Script to perform the ETL steps 
+
 └── README.md                  # Project documentation 
 
 
